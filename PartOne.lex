@@ -1,5 +1,4 @@
-/*Name: Rahul Laxmanbhai Pargi*/
-/*700#:700674188*/
+
 %option noyywrap
 %{
 #include <stdio.h>
